@@ -1,0 +1,14 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 1rem;
+}
+.logo{
+    display: flex;
+    gap: 2px;
+    cursor: pointer;
+}
+.logoText{
+    margin-top: 0.8rem;
+    font-weight: 700;
+}
