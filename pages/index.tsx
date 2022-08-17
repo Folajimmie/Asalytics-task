@@ -20,8 +20,7 @@ export const getStaticProps: GetStaticProps = async () => {
 }
 }
 const Home: NextPage = ({data}: any) => {
-  console.log(data)
- 
+
   return (
     <div className= "container">
       <Head>
